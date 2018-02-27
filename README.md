@@ -1,3 +1,3 @@
 # DeepLearning-Udacity
 
-Udacity Course
+Udacity Course - Trying to learn Deep Learning
